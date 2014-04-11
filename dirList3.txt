@@ -1,0 +1,6 @@
+total 2
+-rw-r--r--    1 AJ       Administ      108 Apr 10 19:38 README.md
+-rw-r--r--    1 AJ       Administ      212 Apr 10 19:52 dirList.txt
+-rw-r--r--    1 AJ       Administ      281 Apr 10 19:53 dirList2.txt
+-rw-r--r--    1 AJ       Administ        0 Apr 10  2014 dirList3.txt
+-rw-r--r--    1 AJ       Administ      123 Apr 10 19:49 firstItem.txt
